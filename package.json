@@ -1,0 +1,27 @@
+{
+  "name": "react-native-face-id",
+  "version": "0.0.0",
+  "description": "React Native implementation for Apple's Face ID.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ericcastro92/react-native-face-id.git"
+  },
+  "keywords": [
+    "FaceID",
+    "Apple",
+    "iPhone",
+    "Biometrics",
+    "Face",
+    "ID"
+  ],
+  "author": "Eric Castro",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ericcastro92/react-native-face-id/issues"
+  },
+  "homepage": "https://github.com/ericcastro92/react-native-face-id#readme"
+}
